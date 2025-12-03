@@ -6,8 +6,8 @@ mcp = FastMCP(name="inventory_mcp")
 # MySQL config
 db_config = {
     "host": "localhost",
-    "user": "root",       # change to your MySQL username
-    "password": "grohith300",  # change to your MySQL password
+    "user": "root",      
+    "password": "",  # 
     "database": "inventory_system"
 }
 
